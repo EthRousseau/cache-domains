@@ -1,0 +1,7 @@
+updates.g.aaplimg.com
+canary.mask.apple-dns.net
+usuqo.apple.com.akadns.net
+updates.cdn-apple.com
+lcdn-locator.apple.com
+updates.cdn-apple.com.akadns.net
+apple-dns.net
